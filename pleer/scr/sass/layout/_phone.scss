@@ -1,0 +1,13 @@
+.phone {
+  position: relative;
+  width: 460px;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 25px;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 10px var($color-c-gray-300), 0 0 0 11px var($color-c-gray-200);
+  z-index: 1;
+  overflow: hidden;
+}

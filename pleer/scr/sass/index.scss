@@ -1,1 +1,10 @@
 @import"../sass/normalize.css";
+
+@import"abstracts/constans";
+@import"abstracts/mixin";
+@import"abstracts/placholder";
+
+@import"base/base";
+
+@import"layout/phone";
+@import"layout/header";

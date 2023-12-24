@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+  @extend %font-add;
+  background-color: $color-c-gray-400;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+input,button {
+  font:inherit;
+}
